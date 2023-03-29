@@ -6,5 +6,6 @@ const a = {
             console.log(a);
         }
     },
-    name: 'Pederizam i seks'
+    name: 'Pederizam i seks',
+    smrtpederima: 'CC#4'
 };
